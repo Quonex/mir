@@ -1,0 +1,14 @@
+body {
+	font-family: "Verdana", sans-serif;
+	color: white;
+	background-color:#7a797a;
+}
+strong {
+	color: orange;
+}
+h1, h2 {
+	color: #EEAA41;
+}
+h1 {
+	font-size: 80pt;
+}
